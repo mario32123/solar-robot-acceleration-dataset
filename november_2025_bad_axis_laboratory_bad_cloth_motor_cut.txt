@@ -1,0 +1,1962 @@
+=== LOG DE ACELEROMETROS ===
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.74g, ay=0.70g, az=0.14g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.04g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.21g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.16g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-0.99g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.68g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.02g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.04g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.02g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.09g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.07g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.04g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.02g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.09g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.04g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.09g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.07g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.04g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.09g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.02g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.10g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.07g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.12g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.05g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.15g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.69g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.11g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.09g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.04g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.76g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.75g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.04g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.78g, ay=-0.67g, az=0.08g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.04g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.68g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.14g, ay=-0.06g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.70g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.00g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.77g, ay=0.71g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.08g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.07g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.08g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.69g, az=0.18g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.19g
+Sensor 2 (I2C0-0x69): ax=-0.08g, ay=-1.01g, az=0.07g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.67g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.09g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): ax=0.76g, ay=0.70g, az=0.17g
+Sensor 2 (I2C0-0x69): ax=-0.07g, ay=-1.00g, az=0.06g
+Sensor 3 (I2C1-0x68): ax=0.77g, ay=-0.66g, az=0.06g
+Sensor 4 (I2C1-0x69): ax=-1.13g, ay=-0.05g, az=0.10g

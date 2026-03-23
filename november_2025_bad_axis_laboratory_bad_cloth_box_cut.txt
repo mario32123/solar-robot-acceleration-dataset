@@ -1,0 +1,1962 @@
+=== LOG DE ACELEROMETROS ===
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.92g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.21g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.92g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.16g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.95g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.21g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.92g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.21g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.26g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.21g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.95g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.95g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.92g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.92g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.21g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.21g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.94g, az=-0.21g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.95g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.16g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.18g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.21g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.19g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=0.99g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.21g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.22g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.18g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.19g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.25g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.02g, ay=-0.18g, az=0.23g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.93g, az=-0.19g
+Sensor 4 (I2C1-0x69): ax=1.00g, ay=-0.17g, az=0.24g
+
+---- Nova Leitura ----
+Sensor 1 (I2C0-0x68): AUSENTE
+Sensor 2 (I2C0-0x69): AUSENTE
+Sensor 3 (I2C1-0x68): ax=-0.17g, ay=0.94g, az=-0.20g
+Sensor 4 (I2C1-0x69): ax=1.01g, ay=-0.17g, az=0.25g
